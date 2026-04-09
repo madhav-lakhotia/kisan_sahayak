@@ -2,8 +2,6 @@
 
 Kisan Sahayak is a **Flutter-based mobile application** designed to empower farmers by providing **real-time assistance, market insights, weather updates, disease detection, voice-based navigation, and offline diary management** — all in one simple and farmer-friendly app.
 
-This project is built with a **hackathon-first mindset**, focusing on accessibility, usability, and real-world impact.
-
 ---
 
 ## 🚀 Key Features
